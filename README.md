@@ -1,7 +1,9 @@
 # hacktoberfest-first-timers
-Support for hacktoberfest first timers 🔥 
 
-> Format: 
-  (Name) - Profile: (Github Link) 
+Support for hacktoberfest first timers 🔥
 
-* Lee Alexis - Profile: [/john20xdoe](https://github.com/john20xdoe)
+> Format:
+> (Name) - Profile: (Github Link)
+
+- Lee Alexis - Profile: [/john20xdoe](https://github.com/john20xdoe)
+- Connie - Profile: [/conniepocky](https://github.com/conniepocky)
