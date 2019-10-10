@@ -11,3 +11,4 @@ Support for hacktoberfest first timers 🔥
 - Echo - Profile: [/echoskope](https://github.com/echoskope)
 - J Doroy - Profile: [/isotopeee](https://github.com/isotopeee)
 - Shivam Grover - Profile: [/shivumgrover7](https://github.com/shivumgrover7)
+- Janjan Medina - Profile: [/janjanmedinaaa](https://github.com/janjanmedinaaa)
